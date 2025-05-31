@@ -12,8 +12,8 @@ Ensure any npc the script is used for is set to Faction Template 35(Friendly) or
 
     Name:        trivia.sql (Quizmaster)
     Author:	 Stephen Kania/Youpeoples
-    Repository:	 https://github.com/Youpeoples/AzerothcoreScripts
-    Download:	 https://github.com/BoiseComputer/update_module_confs/archive/refs/heads/main.zip
+    Repository:	 https://github.com/Youpeoples/Quizmaster
+    Download:	 https://github.com/Youpeoples/Quizmaster/archive/refs/heads/main.zip
     License:	 MIT
 
 
