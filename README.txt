@@ -6,6 +6,8 @@ LogicTonk demo setup is located at (  .go xyz -11820.909 -4747.388 6.90528 1  ).
 
 LogicTonk is based off old Diablo 2 Lobby Trivia Bots. Hints are delivered in the form of exposed letters at a rate of 10% of the answer-characters every 10 seconds.
 
+Ensure any npc the script is used for is set to Faction Template 35(Friendly) or similar and cannot be attacked by players.
+
     Name:        trivia.sql (Quizmaster)
     Author:	 Stephen Kania/Youpeoples
     Repository:	 https://github.com/Youpeoples/AzerothcoreScripts
