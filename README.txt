@@ -8,6 +8,8 @@ LogicTonk is based off old Diablo 2 Lobby Trivia Bots. Hints are delivered in th
 
 Ensure any npc the script is used for is set to Faction Template 35(Friendly) or similar and cannot be attacked by players.
 
+** DOES NOT WORK WITH <GM> ON. <GM> MUST BE OFF FOR /says to register to the npc **
+
     Name:        trivia.sql (Quizmaster)
     Author:	 Stephen Kania/Youpeoples
     Repository:	 https://github.com/Youpeoples/AzerothcoreScripts
