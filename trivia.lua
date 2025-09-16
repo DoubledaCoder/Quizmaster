@@ -873,10 +873,11 @@ local function OnPlayerSay(event, player, msg, type, lang)
             end
         end
     end
+end
 
 
 
--- Init when creature spawns
+    -- Init when creature spawns
 local function OnSpawn(event, creature)
     currentQuestionIndex = 0
     questionTimer = 5
